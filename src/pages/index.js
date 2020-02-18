@@ -11,6 +11,7 @@ const IndexPage = () => (
     <h1>IZZI</h1>
     <h1>IZZI</h1>
     <h1>IZZI</h1>
+    <h1>IZZI</h1>
     <Link to="/page-2/">Page 2!</Link>
   </Layout>
 )
